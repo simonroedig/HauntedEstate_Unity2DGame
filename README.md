@@ -1,7 +1,7 @@
 # Multimedia-Programmierung Uni-Project
 
 -> Video Presentation: https://www.youtube.com/watch?v=ALCMtwbeoIg
-<img src="snapshot.png" alt="Game Snapshot" width="50%" height="50%">
+<img src="Snapshot.png" alt="Game Snapshot" width="50%" height="50%">
 
 This repository contains the Unity project of group 2 for the course "Multimedia-Programmierung" in the summer semester of 2023 at Ludwig-Maximilians-Universität München.
 

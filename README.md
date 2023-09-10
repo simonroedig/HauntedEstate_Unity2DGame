@@ -1,5 +1,7 @@
 # Multimedia-Programmierung Uni-Project
 
+Video Presentation: https://www.youtube.com/watch?v=ALCMtwbeoIg
+
 This repository contains the Unity project of group 2 for the course "Multimedia-Programmierung" in the summer semester of 2023 at Ludwig-Maximilians-Universität München.
 
 ## Contributors
